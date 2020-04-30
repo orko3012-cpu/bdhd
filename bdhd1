@@ -3,3 +3,5 @@
 http://45.58.62.92:8080
 #EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FS1/FS1_290x170.png" group-title="Cricket",Fox Sports 501
 http://45.58.62.92:8080
+#EXTINF:-1,AU: FOX SPORTS 501 HD
+http://clientbox.tv:80/hAcWZsU8uG/xs0zM0KM/157552
