@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1,Fox Sports 501
 http://45.58.62.92:8080
+#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FS1/FS1_290x170.png" group-title="Cricket",Fox Sports 501
+http://45.58.62.92:8080
