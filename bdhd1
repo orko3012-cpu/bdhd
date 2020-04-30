@@ -26,3 +26,31 @@ rtmp://80.82.78.15:443/liverepeater playpath=38 live=1 pageUrl=http://popeofthep
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.airtv.net/images/logos/hindi/Willow-HD.png" group-title="Sports",Cricket HD
 http://51.158.144.124:8090/CR#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.airtv.net/images/logos/hindi/Willow-HD.png" group-title="Sports",Cricket HD
 http://51.158.144.124:8090/CR/3/index.m3u8/3/index.m3u8
+#EXTINF:-1,AU: SPORTS HD 1
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40908
+#EXTINF:-1,AU: SPORTS HD 2
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40907
+#EXTINF:-1,AU: SPORTS HD 3
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40906
+#EXTINF:-1,AU: ESPN HD 1
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40905
+#EXTINF:-1,AU: ESPN HD 2
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40904
+#EXTINF:-1,AU: Fox SPORTS HD 501
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40903
+#EXTINF:-1,AU: Fox SPORTS HD 502
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40902
+#EXTINF:-1,AU: Fox SPORTS HD 503
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40901
+#EXTINF:-1,AU: Fox SPORTS HD 504
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40900
+#EXTINF:-1,AU: Fox SPORTS HD 505
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40899
+#EXTINF:-1,AU: Fox SPORTS HD 506
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40898
+#EXTINF:-1,AU: Fox SPORTS HD 507
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40897
+#EXTINF:-1,AU: Fox SPORTS HD News
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40896
+#EXTINF:-1,AU: Racing.com
+http://nitro.ltd:25461/StevenD2020/StevFr2019/40895
