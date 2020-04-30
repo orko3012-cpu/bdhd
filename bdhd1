@@ -9,3 +9,20 @@ http://clientbox.tv:80/hAcWZsU8uG/xs0zM0KM/157552
 http://45.58.62.92:8080
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="BKZ&IC TV" ,Fox Sports 501
 http://bestever.vodiptv.org:83/37898322/77081405/381399
+#EXTINF:-1,ASIA: Willow Cricket HD
+http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/8544.m3u8
+#EXTINF:0, Willow Cricket
+rtmp://174.36.220.201/live playpath=goya123?id=188881 conn=S:OK swfUrl=http://mips.tv/content/scripts/eplayer.swf pageUrl=http://mips.tv/embedplayer/goya123/1/600/430
+#EXTINF:-1,USA:Willow Cricket
+http://cs22cs.uk:8000/katka/katka/27887
+#EXTINF:-1,IN: Willow Cricket HD
+http://clientbox.tv:80/hAcWZsU8uG/xs0zM0KM/5308
+#EXTINF:-1,SPORT: UK - Sky Sports Cricket HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/197952.m3u8
+#EXTINF:-1 tvg-logo="https://chennailogs.willow.tv/fpdf17/WillowLogo_Black.png" group-title="Cricket",Willow 
+http://globalbd.mywire.org:8081/globe/willow/playlist.m3u8
+#EXTINF:-1 tvg-logo="Willow.png" group-title="UK SPORTS", Willow Cricket
+rtmp://80.82.78.15:443/liverepeater playpath=38 live=1 pageUrl=http://popeoftheplayers.pw/Vd?u#bt!25 timeout=15 token=#atd%#$ZH timeout=15
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.airtv.net/images/logos/hindi/Willow-HD.png" group-title="Sports",Cricket HD
+http://51.158.144.124:8090/CR#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.airtv.net/images/logos/hindi/Willow-HD.png" group-title="Sports",Cricket HD
+http://51.158.144.124:8090/CR/3/index.m3u8/3/index.m3u8
