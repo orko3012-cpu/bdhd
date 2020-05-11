@@ -1,56 +1,163 @@
-#EXTM3U
-#EXTINF:-1,Fox Sports 501
-http://45.58.62.92:8080
-#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FS1/FS1_290x170.png" group-title="Cricket",Fox Sports 501
-http://45.58.62.92:8080
-#EXTINF:-1,AU: FOX SPORTS 501 HD
-http://clientbox.tv:80/hAcWZsU8uG/xs0zM0KM/157552
-#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FS1/FS1_290x170.png" group-title="SPORTS",Fox Sports 501
-http://45.58.62.92:8080
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="BKZ&IC TV" ,Fox Sports 501
-http://bestever.vodiptv.org:83/37898322/77081405/381399
-#EXTINF:-1,ASIA: Willow Cricket HD
-http://m3u.hydr0.io:25461/live/RENO87/AaBbCc54321/8544.m3u8
-#EXTINF:0, Willow Cricket
-rtmp://174.36.220.201/live playpath=goya123?id=188881 conn=S:OK swfUrl=http://mips.tv/content/scripts/eplayer.swf pageUrl=http://mips.tv/embedplayer/goya123/1/600/430
-#EXTINF:-1,USA:Willow Cricket
-http://cs22cs.uk:8000/katka/katka/27887
-#EXTINF:-1,IN: Willow Cricket HD
-http://clientbox.tv:80/hAcWZsU8uG/xs0zM0KM/5308
-#EXTINF:-1,SPORT: UK - Sky Sports Cricket HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/197952.m3u8
-#EXTINF:-1 tvg-logo="https://chennailogs.willow.tv/fpdf17/WillowLogo_Black.png" group-title="Cricket",Willow 
-http://globalbd.mywire.org:8081/globe/willow/playlist.m3u8
-#EXTINF:-1 tvg-logo="Willow.png" group-title="UK SPORTS", Willow Cricket
-rtmp://80.82.78.15:443/liverepeater playpath=38 live=1 pageUrl=http://popeoftheplayers.pw/Vd?u#bt!25 timeout=15 token=#atd%#$ZH timeout=15
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.airtv.net/images/logos/hindi/Willow-HD.png" group-title="Sports",Cricket HD
-http://51.158.144.124:8090/CR#EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.airtv.net/images/logos/hindi/Willow-HD.png" group-title="Sports",Cricket HD
-http://51.158.144.124:8090/CR/3/index.m3u8/3/index.m3u8
-#EXTINF:-1,AU: SPORTS HD 1
-http://nitro.ltd:25461/StevenD2020/StevFr2019/40908
-#EXTINF:-1,AU: SPORTS HD 2
-http://nitro.ltd:25461/StevenD2020/StevFr2019/40907
-#EXTINF:-1,AU: SPORTS HD 3
-http://nitro.ltd:25461/StevenD2020/StevFr2019/40906
-#EXTINF:-1,AU: ESPN HD 1
-http://nitro.ltd:25461/StevenD2020/StevFr2019/40905
-#EXTINF:-1,AU: ESPN HD 2
-http://nitro.ltd:25461/StevenD2020/StevFr2019/40904
-#EXTINF:-1,AU: Fox SPORTS HD 501
-http://nitro.ltd:25461/StevenD2020/StevFr2019/40903
-#EXTINF:-1,AU: Fox SPORTS HD 502
-http://nitro.ltd:25461/StevenD2020/StevFr2019/40902
-#EXTINF:-1,AU: Fox SPORTS HD 503
-http://nitro.ltd:25461/StevenD2020/StevFr2019/40901
-#EXTINF:-1,AU: Fox SPORTS HD 504
-http://nitro.ltd:25461/StevenD2020/StevFr2019/40900
-#EXTINF:-1,AU: Fox SPORTS HD 505
-http://nitro.ltd:25461/StevenD2020/StevFr2019/40899
-#EXTINF:-1,AU: Fox SPORTS HD 506
-http://nitro.ltd:25461/StevenD2020/StevFr2019/40898
-#EXTINF:-1,AU: Fox SPORTS HD 507
-http://nitro.ltd:25461/StevenD2020/StevFr2019/40897
-#EXTINF:-1,AU: Fox SPORTS HD News
-http://nitro.ltd:25461/StevenD2020/StevFr2019/40896
-#EXTINF:-1,AU: Racing.com
-http://nitro.ltd:25461/StevenD2020/StevFr2019/40895
+
+#EXTINF:0, group-title="Tony",SKY ARTS
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/2408
+#EXTINF:0,group-title="Tony",SKY CINEMA ACTION | VIP
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/98800
+#EXTINF:0, group-title="Sky Entertainment",SKY CINEMA COMEDY | VIP
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/98799
+#EXTINF:0,group-title="Sky Entertainment",SKY CINEMA DISNEY | VIP
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/98798
+#EXTINF:0,group-title="Sky Entertainment",SKY CINEMA DRAMA | VIP
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/98797
+#EXTINF:0, group-title="Sky Entertainment",SKY CINEMA FAMILY | VIP
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/98796
+#EXTINF:0, group-title="Sky Entertainment",SKY CINEMA GREATS | VIP
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/98795
+#EXTINF:0,group-title="Sky Entertainment",SKY CINEMA HITS | VIP
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/98794
+#EXTINF:0, group-title="Sky Entertainment",SKY CINEMA PREMIER | VIP
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/98793
+#EXTINF:0, group-title="Sky Entertainment",SKY CINEMA SCI-FI HORROR | VIP
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/98792
+#EXTINF:0, group-title="Sky Entertainment",SKY CINEMA SELECT | VIP
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/98791
+#EXTINF:0, group-title="Sky Entertainment",SKY CINEMA THRILLER | VIP
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/98790
+#EXTINF:0, group-title="Sky Entertainment",REELZ
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/95923
+#EXTINF:0, group-title="Sky Entertainment",SHOWTIME
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/1580
+#EXTINF:0, group-title="Sky Entertainment",SHOWTIME WEST
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/39223
+#EXTINF:0, group-title="Sky Entertainment",SHOWTIME 2
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/95922
+#EXTINF:0, group-title="Sky Entertainment",SHOWTIME BEYOND
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/90710
+#EXTINF:0, group-title="Sky Entertainment",SHOWTIME BEYOND Low BW
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/96930
+#EXTINF:0, group-title="Sky Entertainment",SHOWTIME EXTREME
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/95921
+#EXTINF:0, group-title="Sky Entertainment",SHOWTIME FAMILY ZONE
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/99421
+#EXTINF:0, group-title="Sky Entertainment",SHOWTIME NEXT
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/89082
+#EXTINF:0, group-title="Sky Entertainment",SHOWTIME NEXT Low BW
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/96931
+#EXTINF:0, group-title="Sky Entertainment",SHOWTIME SHOWCASE 
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/1421
+#EXTINF:0, group-title="Sky Entertainment",SHOWTIME SHOWCASE Low BW
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/89061
+#EXTINF:0, group-title="Sky Entertainment",SHOWTIME WOMEN
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/97654
+#EXTINF:0, group-title="Sky Entertainment",STARZ
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/1271
+#EXTINF:0, group-title="Sky Entertainment",STARZ West
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/98749
+#EXTINF:0, group-title="Sky Entertainment",STARZ CINEMA
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/97655
+#EXTINF:0, group-title="Sky Entertainment",STARZ COMEDY
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/95919
+#EXTINF:0, group-title="Sky Entertainment",STARZ EDGE
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/95918
+#EXTINF:0, group-title="Sky Entertainment",STARZ ENCORE
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/94991
+#EXTINF:0, group-title="Sky Entertainment",STARZ ENCORE ACTION
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/95801
+#EXTINF:0, group-title="UK Sports",FOX SPORTS 1
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/1367
+#EXTINF:0, group-title="UK Sports",FOX SPORTS 2
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/38483
+#EXTINF:0, group-title="UK Sports",NFL NETWORK
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/1402
+#EXTINF:0, group-title="UK Sports",NBA TV
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/29485
+#EXTINF:0, group-title="UK Sports",MLB NETWORK
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/1389
+#EXTINF:0, group-title="UK Sports",NHL NETWORK
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/1612
+#EXTINF:0, group-title="UK Sports",ELEVEN SPORTS
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/86505
+#EXTINF:0,PREMIER SPORTS 1
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/98771
+#EXTINF:0,PREMIER SPORTS 2
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/98770
+#EXTINF:0,GOLF CHANNEL
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/1479
+#EXTINF:0,Golf Channel
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/109159
+#EXTINF:0,The Golf Channel
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/109160
+#EXTINF:0,CA: GOLF FHD
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/36809
+#EXTINF:0,NBCSN
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/1396
+#EXTINF:0,CBS SPORTS NETWORK
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/1281
+#EXTINF:0,TENNIS CHANNEL
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/31209
+#EXTINF:0,BOX NATION
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/1380
+#EXTINF:0,BT SPORTS 1
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/89214
+#EXTINF:0,BT SPORTS 2
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/89213
+#EXTINF:0,BT SPORTS 3
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/89212
+#EXTINF:0,BT SPORTS EPSN
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/89211
+#EXTINF:0,SKY SPORTS ACTION
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/98789
+#EXTINF:0,SKY SPORTS ARENA
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/98787
+#EXTINF:0,SKY SPORTS CRICKET
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/98785
+#EXTINF:0,SKY SPORTS F1
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/98783
+#EXTINF:0,SKY SPORTS FOOTBALL
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/98781
+#EXTINF:0,SKY SPORTS GOLF
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/98779
+#EXTINF:0,SKY SPORTS MAIN EVENT
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/98777
+#EXTINF:0,SKY SPORTS MIX
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/98857
+#EXTINF:0,SKY SPORTS NEWS
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/98801
+#EXTINF:0,SKY SPORTS PREMIER LEAGUE
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/98775
+#EXTINF:0,SKY SPORTS RACING
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/98773
+#EXTINF:0,EUROSPORT 1
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/31459
+#EXTINF:0,EUROSPORT 2
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/31460
+#EXTINF:0,TSN 1
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/1621
+#EXTINF:0,TSN 2
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/1622
+#EXTINF:0,TSN 3
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/1623
+#EXTINF:0,TSN 4
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/1624
+#EXTINF:0,TSN 5
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/1625
+#EXTINF:0,SPORTSNET WORLD
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/1619
+#EXTINF:0,SPORTSNET ONTARIO
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/25999
+#EXTINF:0,SPORTSNET 360
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/26000
+#EXTINF:0,SPORTSNET ONE
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/26001
+#EXTINF:0,SPORTSNET PACIFIC
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/26002
+#EXTINF:0,OSN CRICKET
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/95012
+#EXTINF:0,WILLOW CRICKET
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/100685
+#EXTINF:0,WILLOWXTRA CRICKET
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/100686
+#EXTINF:0,DISCOVERY TURBO
+http://jcdurex.tv:826/H4Myg7AKaX/YVWiUgepG7/1692
+
+
